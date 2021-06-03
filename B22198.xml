@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments resolvtion concerning the volvntiers that are to bee raysed throughout the whole kingdome under the command of his excdlency [sic] the Earle of Essex likewise how Docter Bastwick was taken by the cavaleers and how wickedly he was handled by them.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22198</idno><idno type="EEBO-CITATION">12244320</idno>
+  <idno type="VID">197385</idno>
+  <idno type="EEBO-PROQUEST">2240945231</idno>
+  
+            <idno type="STC">Wing E2148</idno>
+            <idno type="OCLC">12244320</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197385)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E108, no 23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments resolvtion concerning the volvntiers that are to bee raysed throughout the whole kingdome under the command of his excdlency [sic] the Earle of Essex likewise how Docter Bastwick was taken by the cavaleers and how wickedly he was handled by them.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for Thomas Baley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bastwick, John, 1593-1654.</term>
+               <term type="personal_name">Essex, Robert Devereux, --  Earl of, 1591-1646.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197385:1"/>
+            <pb facs="tcp:197385:1"/>
+            <p>THE PARLIAMENTS RESOLVTION <hi>CONCERNING THE</hi> VOLVNTIERS that are to bee Raysed throughout the whole KINGDOME Under the Command of His excdlency the Earle of <hi>ESSEX.</hi>
+            </p>
+            <p>LIKEWISE, HOW DOCTER BASTWICK WAS TAKEN BY THE CAVALEERS AND how wickedly he was handled by them.</p>
+            <p>
+               <list>
+                  <item>Ioh. Bro. Cler. Par.</item>
+                  <item>Hen: Els. Parl. D. Com.</item>
+               </list>
+            </p>
+            <p>
+               <hi>July.</hi> 30. Printed for <hi>Thomas Baley.</hi> 1642.</p>
+            <pb facs="tcp:197385:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_resolution">
+            <pb n="3" facs="tcp:197385:2"/>
+            <head>The Parliaments RESOLVTION CONCERNING THE Voluntiers,</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE High Court of <hi>PARLIA<g ref="char:EOLhyphen"/>MENT,</hi> having by severall wayes, Attempted to sup<g ref="char:EOLhyphen"/>presse the Cavaleers and others of the Malignant Partie, that have for their own particular ends endeavoured to Ruine the Kings most exce<g ref="char:EOLhyphen"/>lent Majestie, His Royall Posteritie, The Lawes of the Land, the Priviledges and be<g ref="char:EOLhyphen"/>ing of <hi>PARLIAMENTS</hi> with the iust Au<g ref="char:EOLhyphen"/>thourity of the same the utter extirpation of Religion which is, the most in esteem able Iewels that is, or ought to be prised, or esteemed by all true Protestants the liberty and propriety of the Subject, the Common
+<pb n="4" facs="tcp:197385:3"/> Birthright of every true borne English man all which by their malicious practises, and evill designes of the said malignants have solely Ay<g ref="char:EOLhyphen"/>med at, to which end, they caused his Maies<g ref="char:EOLhyphen"/>tie to engage himselfe in a Warr against His Parliament which Warr if prosicuted, will be in great danger of proving destructive both to His Maiestie and His Royall posteritie, to the Laws of the Kingdome, and the vtter dissoluti<g ref="char:EOLhyphen"/>on of this government, which great and mani<g ref="char:EOLhyphen"/>fold dangers the Lords and Commons Assem<g ref="char:EOLhyphen"/>bled in Parliament, taking unto serious conside<g ref="char:EOLhyphen"/>ration and being desirous to use their best en<g ref="char:EOLhyphen"/>deavours to prevent a warr, which did so much threaten a small end almost assured destruction.</p>
+            <p>They haue thought it necessarie to grant a Commission to the Right Honorable the <hi>EARLE</hi> of <hi>ESSEX,</hi> giuing him full power by the Authorithe of PARLIAMENT to rase, leauy, Muster, or conduct, such forces as shall be rayssed by Him into any part of this Kingdom.</p>
+            <p>to the end, that He may supsesse all forces that shall be rased by the Malignant Party, to dis<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urb, the Peace of the Kingdom or to crosse the Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ceedings of <hi>PARLIAMENT</hi> or to oppose those who obey the Ordinance of the <hi>MILITIA.</hi>
+            </p>
+            <p>l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kewise <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat no man may pretend ignorance, and by that meanes suffer the sayd Ordinance of <hi>PARLIAMENT</hi> to be opposed, by the
+<pb n="8" facs="tcp:197385:3"/> power or policye of the malignant partye.</p>
+            <p>They haue Ordered, that by the <hi>LORDS</hi> and Commons Asembled in <hi>PARLIAMNT</hi> that in case any force be btought out of one Countye into any other Countye of this Kingdom to desturbe the Peace thereof: that the Lord Lievtenants of the Counties adjoy<g ref="char:EOLhyphen"/>ning, upon notice given unto them of such di<g ref="char:EOLhyphen"/>sturbance▪ by the Lord Lievtenants or Depus<g ref="char:EOLunhyphen"/>ty Lievtenants where such disturbance is made, or hereby required to give ayd and assistance to the said Lord Lievtenants, and Deputy Liev<g ref="char:EOLhyphen"/>tenants, or any of them so requiring the same, for the present suppressing of such force and di<g ref="char:EOLhyphen"/>sturbances of the peace, his voluntiers and such of the Trained Bands of their severall Counties that shall Voluntarily goe to give their assi<g ref="char:EOLhyphen"/>st<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce.</p>
+            <p>This is the Resolution of the Lords and Come<g ref="char:EOLunhyphen"/>mons for the disposall of the Voluntiers now raised under t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e command of the Right Ho<g ref="char:EOLhyphen"/>nor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble the Earle of Essex Lord Generall of this present expedition.</p>
+            <p>For se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing that our Land is ouergrowne with the weeds of distractions, it is to be feared that least opposition to the good intended proced<g ref="char:EOLhyphen"/>ings of Parliament, which may arise, will with<g ref="char:EOLhyphen"/>out preuention, easily trip up the heeles of our staggerin Commonwealth;</p>
+            <pb n="6" facs="tcp:197385:4"/>
+            <p> Nay such cruell atempts haue made such an Exordium already, that unlesse well conceld resolution we stop the streame, it will turne to a stood, to ouerwhelme us, and bring with it a dismall finis:</p>
+            <p>One of which disastrous entrprises shall take place in this small treatise.</p>
+         </div>
+         <div type="account">
+            <head>THE TAKING OF <hi>DOCTER BAST<g ref="char:EOLhyphen"/>WICK</hi> by the Cavaleers, and how wicked<g ref="char:EOLhyphen"/>ly he was handled by them.</head>
+            <p>
+               <seg rend="decorInit">J</seg>T happend, (ill hap indeed) that Docter <hi>Basiwick,</hi> loast he should surfeit with his revived comforts was brought to a game of hard fortune, For, he, having and over ruling desire to aire himselfe in the Country; in <hi>LEISTER</hi> there to tast of quietnesse <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sweat meat of fortune: was followed at the heeles by his former jalour, persecution; After he had rested their a while, his delight was equalled for the Parliaments desires, in exercising the <hi>MILITIA,</hi> wherin was depictured the active perfection of a souldier, as also the passive loy<g ref="char:EOLhyphen"/>alty of a Subject; and had come of to his credit but that he was surprised by the Cavaleeres, to their
+<gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:197385:4"/> shame. Who either (envighed his Honour or his Action,) suddainly would have the Souldiers of their owne Ranke, that is in dis<g ref="char:EOLhyphen"/>order, and that well experienced Docter rather Christian, suffered under the tyrany of which he had Death, had not our souraigne. Let fly a mercifull warning peece, so to deter them that they should not write Characters in his bloud, though indeed they would faine haue▪ perhaps have read an Anotomy Lecture over his carcase.</p>
+            <p>For words and blowes stroue which should be formost, their busy tongues tore his name, theire hands, his garments, him they Hectored and dragd along soe inhumanely that he might be iudged to measur his graue upon the ground whom sence they durst not depriue of life, they depriud of liberty, and Cast in Leister Iaile where he as yet remanes;</p>
+            <p>Great Pitty indeed that such a member, who through his passing skill is of ability to saue his fellow Subiects as through his undanted Spirit to distroy and defeat an enemy, that such a one should finde a passage to an untimely Death.</p>
+            <p>But our hopefull, and I hope healthfull Par<g ref="char:EOLhyphen"/>liament will soone disprison him, for which purpose there bee Emissaries sent to the Magi<g ref="char:EOLhyphen"/>strats there and them of authority for his free<g ref="char:EOLhyphen"/>dome, for indeed he hath serued a prentiship of
+<pb n="8" facs="tcp:197385:5"/> Sorrow; and should bee Roman-free after the recept of soe many blowes with the Bills of ther hands.</p>
+            <p>Let us pray God to put an end to such ill begining so I end.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Iohn Browne Cler Par</item>
+                     <item>Hen Elsing Cler Par D Com</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
